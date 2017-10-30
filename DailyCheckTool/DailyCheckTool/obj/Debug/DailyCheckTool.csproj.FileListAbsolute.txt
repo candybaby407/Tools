@@ -1,0 +1,9 @@
+C:\Users\v-bafa\source\repos\DailyCheckTool\DailyCheckTool\bin\Debug\DailyCheckTool.exe.config
+C:\Users\v-bafa\source\repos\DailyCheckTool\DailyCheckTool\bin\Debug\DailyCheckTool.exe
+C:\Users\v-bafa\source\repos\DailyCheckTool\DailyCheckTool\bin\Debug\DailyCheckTool.pdb
+C:\Users\v-bafa\source\repos\DailyCheckTool\DailyCheckTool\obj\Debug\DailyCheckTool.csprojResolveAssemblyReference.cache
+C:\Users\v-bafa\source\repos\DailyCheckTool\DailyCheckTool\obj\Debug\DailyCheckTool.Properties.Resources.resources
+C:\Users\v-bafa\source\repos\DailyCheckTool\DailyCheckTool\obj\Debug\DailyCheckTool.csproj.GenerateResource.Cache
+C:\Users\v-bafa\source\repos\DailyCheckTool\DailyCheckTool\obj\Debug\DailyCheckTool.csproj.CoreCompileInputs.cache
+C:\Users\v-bafa\source\repos\DailyCheckTool\DailyCheckTool\obj\Debug\DailyCheckTool.exe
+C:\Users\v-bafa\source\repos\DailyCheckTool\DailyCheckTool\obj\Debug\DailyCheckTool.pdb
